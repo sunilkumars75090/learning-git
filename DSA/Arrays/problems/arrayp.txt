@@ -1,0 +1,4 @@
+Arrays problems
+
+
+arrays is linear data structure.
