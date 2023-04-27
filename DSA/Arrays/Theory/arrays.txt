@@ -1,0 +1,1 @@
+Array is linear data structure stores elements of same type in contiguous locations.
